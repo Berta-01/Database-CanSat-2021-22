@@ -1,5 +1,5 @@
 # Links utili
-## Per aggiungere dati etc... scrivetemi pure in privato
+## Per aggiungere dati, link etc... scrivetemi pure in privato
 [Database mondiale gas serra](kishou.go.jp) (link per O3, CO2 etc… in fondo alla pagina)
 
 [Database mondiale O3](https://woudc.org/data/explore.php?lang=en#) con varie stazioni meteo a diverse altezze
