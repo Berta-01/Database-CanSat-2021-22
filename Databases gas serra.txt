@@ -1,10 +1,10 @@
-Database mondiale gas serra (link per O3, CO2 etc… in fondo)
-WDCGG (World Data Centre for Greenhouse Gases) (kishou.go.jp) 
+Database mondiale gas serra (link per O3, CO2 etcâ€¦ in fondo)
+[WDCGG World Data Centre for Greenhouse Gases](kishou.go.jp) 
 
 Database mondiale O3 con varie stazioni meteo a diverse altezze
-WOUDC - Data - Data Search / Download 
+[WOUDC](WOUDC - Data - Data Search / Download) 
 
-Dati O3 di colonna per zone del pianeta (O3 misurato su un’area del pianeta da satellite, include O3 della stratosfera)
+Dati O3 di colonna per zone del pianeta (O3 misurato su unâ€™area del pianeta da satellite, include O3 della stratosfera)
 Earthdata Search (nasa.gov) 
 
 Portale ICOS con analisi livelli di CO2 Monte Cimone ed estero aggiornati al 2021
