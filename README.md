@@ -1,2 +1,1 @@
-# Database dati CanSat 2021/22
- 
+Per aggiungere dati etc... scrivetemi pure in privato
